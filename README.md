@@ -5,7 +5,7 @@ User should select what kind of information wants to receive, respectivelly meta
 
 Next ICAO aiport code should be entered.
 
-If a connection error occores the program terminates with an error message.
+If a connection error occurs the program terminates with an error message.
 
 -------------------------------------------------------------------------------------------
 
